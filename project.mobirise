@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 58,
+    "uniqCompNum": 79,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -113,7 +113,7 @@
             "showButton": false
           },
           "title": "Linsey's Media Project",
-          "text": "<p><a href=\"Project#header3-1c\">Chapter 3</a> - <a href=\"Project#header3-1b\">Chapter 4</a> - <a href=\"Project#header3-1d\">Chapter 5</a> - <a href=\"Project#header3-1g\">Chapter 6&nbsp;</a></p>",
+          "text": "<p><a href=\"Linseys Media Project#header3-1c\">Chapter 7</a><a href=\"Project#header3-1c\"></a>&nbsp;- <a href=\"Project#header3-1b\">Chapter 8</a><a href=\"Project#header3-1b\"></a>&nbsp;- <a href=\"Project#header3-1d\">Chapter 9</a><a href=\"Project#header3-1d\"></a>&nbsp;- <a href=\"Project#header3-1g\">Chapter 10&nbsp;</a></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -133,8 +133,8 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Chapter 3",
-          "meta": "<a href=\"Brick House#msg-box4-1\">Brick House</a> &amp; <a href=\"Brick House#msg-box4-12\">Take Me or Leave Me</a>"
+          "title": "Chapter 7",
+          "meta": "<p><a href=\"Brick House#msg-box4-1\">Thank You For Being A Friend</a><a href=\"Brick House#msg-box4-1\"></a> &amp; <a href=\"Brick House#msg-box4-12\">Somebody to Love</a><a href=\"Brick House#msg-box4-12\"></a></p>"
         },
         {
           "_inherit": "msg-box5",
@@ -143,6 +143,648 @@
           ],
           "_name": "msg-box4",
           "_anchor": "msg-box4-1",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/voNEgCKzves",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Thank You For Being a Friend - Andrew Gold (Track 9)<br>",
+          "text": "<p>Thank you for being a friend<br>Traveled down the road and back again<br>Your heart is true, you're a pal and a confidant<br><br>I'm not ashamed to say<br>I hope it always will stay this way<br>My hat is off, won't you stand up and take a bow<br><br>And if you threw a party<br>Invited everyone you knew<br>You would see the biggest gift would be from me<br>And the card attached would say<br><br>Thank you for being a friend <br>Thank you for being a friend <br>Thank you for being a friend <br>Thank you for being a friend <br><br>If it's a car you lack<br>I'd surely buy you a Cadillac<br>Whatever you need any time of the day or night<br><br>I'm not ashamed to say<br>I hope it always will stay this way<br>My hat is off, won't you stand up and take a bow<br><br>And when we both get older<br>With walking canes and hair of gray<br>Have no fear even though it's hard to hear<br>I will stand real close and say<br><br>Thank you for being a friend<br><br>And when we die<br>And float away<br>Into the night<br>The milky way<br>You'll hear me call<br>As we ascend<br>I'll say your name<br>Then once again<br><br>Thank you for being a friend<br></p><p><br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Quote: </b></p><p>\r“We rely on our partners for emotional support in the form of affection, acceptance, and reassurance; physical comfort in the form of hugs and cuddling; advice support in the form of information and guidance; and material support, or tangible assistance in the form of money or goods.” (Miller, 2015, p.216)\r</p>",
+          "text2": "<p><b>Explination: \n</b></p><p>Even though the song doesn’t really mention any type of emotional support you can tell by his voice that he truly does have an affection towards his friend. The song does on the other hand mention giving material support. The first thing he says is that he would give them the biggest gift at a party and the second thing is he said he would buy them a Cadillac if they needed a car.  These are obvious forms of tangible assistance. \n</p>",
+          "text3": ""
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-12",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/kijpcUv-b8M",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Somebody To Love - Queen (Track 10)",
+          "text": "<p>Can anybody find me somebody to love<br>Ooh, each morning I get up I die a little<br>Can barely stand on my feet<br>(Take a look at yourself) Take a look in the mirror and cry (and cry)<br>Lord what you're doing to me (yeah yeah)<br>I have spent all my years in believing you<br>But I just can't get no relief, Lord!<br>Somebody (somebody) ooh somebody (somebody)<br>Can anybody find me somebody to love?<br>I work hard (he works hard) every day of my life<br>I work till I ache in my bones<br>At the end (at the end of the day)<br>I take home my hard earned pay all on my own<br>I get down (down) on my knees (knees)<br>And I start to pray<br>Till the tears run down from my eyes<br>Lord somebody (somebody), ooh somebody<br>(Please) can anybody find me somebody to love?<br>Everyday (everyday) I try and I try and I try<br>But everybody wants to put me down<br>They say I'm going crazy<br>They say I got a lot of water in my brain<br>Ah, got no common sense<br>I got nobody left to believe in<br>Yeah yeah yeah yeah<br>Oh Lord<br>Ooh somebody, ooh somebody<br>Can anybody find me somebody to love?<br>(Can anybody find me someone to love)<br>Got no feel, I got no rhythm<br>I just keep losing my beat (you just keep losing and losing)<br>I'm OK, I'm alright (he's alright, he's alright)<br>I ain't gonna face no defeat (yeah yeah)<br>I just gotta get out of this prison cell<br>One day (someday) I'm gonna be free, Lord!<br>Find me somebody to love<br>Find me somebody to love<br>Find me somebody to love<br>Find me somebody to love<br>Find me somebody to love<br>Find me somebody to love<br>Find me somebody to love<br>Find me somebody to love love love<br>Find me somebody to love<br>Find me somebody to love<br>Somebody somebody somebody somebody<br>Somebody find me<br>Somebody find me somebody to love<br>Can anybody find me somebody to love?<br>(Find me somebody to love)<br>Ooh<br>(Find me somebody to love)<br>Find me somebody, somebody (find me somebody to love) somebody, somebody to love<br>Find me, find me, find me, find me, find me<br>Ooh, somebody to love (Find me somebody to love)<br>Ooh (find me somebody to love)<br>Find me, find me, find me somebody to love (find me somebody to love)<br>Anybody, anywhere, anybody find me somebody to love love love!<br>Somebody find me, find me love<br><br><br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-13",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Quote</b>:</p><p>“And over time, the wear and tear of loneliness may have very noticeable effects on general well-being.” (Miller, 2015, p.238)\r\r</p>",
+          "text2": "<p><b>Explination</b>:</p><p>In this song, the singer is begging for God to find him somebody to love. He is a lonely man and emotionally isolation is destroying him. He is experiencing problems physically (e.g. trouble standing) and emotionally (e.g. constant crying). He’s also experiencing social isolation because his friends think he’s crazy so he doesn’t feel like he can count on them. This song shows how the stress of loneliness can take a toll on one’s body and mind. \n</p>",
+          "text3": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Chapter 8",
+          "meta": "<p><a href=\"Brick House#msg-box4-14\">Count On Me</a><a href=\"Brick House#msg-box4-14\"></a> &amp; <a href=\"Brick House#msg-box4-16\">Area Codes</a><a href=\"Brick House#msg-box4-16\"></a></p>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-14",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/ae2iX6vZCoM",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Count On Me - Whitney Houston, BeBe &amp; CeCe Winans (Track 11)<br>",
+          "text": "<p>Count on me through thick and thin<br>A friendship that will never end<br>When you are weak, I will be strong<br>Helping you to carry on<br>Call on me, I will be there, don't be afraid<br>Please believe me when I say, count on<br><br>I can see that it's hurting you, I can feel your pain<br>It's hard to see the sunshine, through the rain, oh<br>I know sometimes it seems as if, it's never gonna end<br>But you'll get through it<br>Just don't give in cause you can<br><br>Count on me through thick and thin<br>A friendship that will never end<br>When you are weak, I will be strong<br>Helping you to carry on<br>Call on me, I will be there, don't be afraid<br>Please believe me when I say, count on<br><br>You can count on me<br><br>I know sometimes it seems as if, we're standing all alone<br>Be we'll get through it, 'cause love won't let us fall<br><br>Count on me through thick and thin<br>A friendship that will never end<br>When you are weak, I will be strong<br>Helping you to carry on<br>Call on me, I will be there, don't be afraid<br>Please believe me when I say, count on<br><br>There's a place inside of all of us<br>Where our faith in love begins<br>You should reach to find the truth in love<br>The answers there within, oh<br>I know that life can make you feel<br>It's much harder than it really is<br>But we'll get through it, just don't give in<br><br>Count on me through thick and thin<br>A friendship that will never end<br>When you are weak, I will be strong<br>Helping you to carry on<br>Call on me, I will be there, don't be afraid<br>Please believe me when I say, count on<br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-15",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Quote</b>:</p><p>“Compassion involves empathy for others and the benevolent wish to aid those who are need help [sic].” (Miller, 2015, p. 262)\n</p>",
+          "text2": "<p><b>Explination</b>:</p><p>This song shows the compassion between two friends. They love each other and want only the best. They are there for each other when they need help and they care about the others well-being. They support one another. They are showing empathy towards the others feelings. \n</p>",
+          "text3": ""
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-16",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/cvrKzmkdBTI",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Area Codes - Ludacris feat. Nate Dogg (Track 12)",
+          "text": "<p>I've got hoes<br>I've got hoes, in different area codes (area, area codes, codes)<br>Hoes, hoes, hoes, in different area codes (area, area codes, codes)<br><br>Now you thought I was just 7-7-0<br>And 4-0-4, I'm worldwide bitch, act like y'all don't know<br>It's the abominable hoe man<br>Globe-trot international post man<br>Neighbor-dick dope man<br>7-1-8s, 2-0-2's<br>I send small cities and states I-O-U's<br>9-0-1, matter fact 3-0-5<br>I'll jump off the G4, we can meet outside<br>So control your whoremones and keep your drawers on<br>'Til I close the door and I'm jumping your bones<br>3-1-2, 3-1-3, 2-1-5, 8-0-3<br>Read your horoscope and eat some whore d'oeuvres<br>Ten on pump one these hoes is self serve<br>7-5-7, 4-1-0, my cell phone says overload<br><br>I've got hoes<br>I've got hoes, in different area codes (area, area codes, codes)<br>Hoes, hoes, hoes, in different area codes (area, area codes, codes)<br><br>Now everyday is a holiday<br>So stop the violence and put the 4-4 away, skeet shoot a ho today<br>5-0-4, 9-7-2<br>7-1-3, what ya goin' do<br>You checking up the scene, I'm checking a ho tonight<br>With perpendicular vehicular homicide<br>3-1-4, 2-0-1<br>Too much green, too much fun<br>I bang cock in Bangkok<br>Can't stop, I turn and hit the same spot<br>Think not, I'm the thrilla in Manilla,<br>Schlong in Hong Kong<br>Pimp em like Bishop, magic Don Juan<br>Man after Henny with a coke and a smile<br>I just pick up the motherfucking phone and dial<br>I got my condoms in a big-ass-sack<br>I'm slagging this dick like a New Jack, bitch<br><br>Is it cause they like my gangsta walk?<br>Is it cause they like my gangsta talk?<br>Is it cause they like my handsome face?<br>Is it cause they like my gangsta ways?<br>Whatever it is, they love it<br>And they just won't let me be<br>I handle my biz, don't rush me<br>Just relax and let me be free<br>Whenever I call, come running<br>2-1-2 or 2-1-3<br>You know that I ball, stop fronting<br>'For I call my substitute freak<br><br>I've got hoes<br>I've got hoes, in different area codes (area, area codes, codes)<br>Hoes, hoes, hoes, in different area codes (area, area codes, codes)<br><br>9-1-6, 4-1-5, 7-0-4<br>Shout out to the 2-0-6<br>Everybody in the 8-0-8<br>2-1-6, 7-0-2, 4-1-4<br>3-1-7, 2-1-4, 2-8-1<br>3-3-4, 2-0-5, I see ya<br>3-1-8, 6-0-1, 2-0-3<br>8-0-4, 4-0-2, 3-0-1<br>9-0-4, 4-0-7, 8-5-0<br>7-0-8, 5-0-2<br>And different area codes<br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-17",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Quote</b>:</p><p>Ludic lovers are often fickle and (try to) have several different partners at once. (Miller, 2015, p.264)</p>",
+          "text2": "<p><b>Explination</b>:</p><p>In this song Ludacris represents and ludus style lover. He brags about having multiple women all over the globe and in different area codes. He shows no remorse for not being a monogamous man and is very happy with the way that he is living his life. \n</p>",
+          "text3": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Chapter 9",
+          "meta": "<p><a href=\"Project#msg-box4-18\">Blame It</a><a href=\"Project#msg-box4-18\"></a><a href=\"Project#msg-box4-18\"></a> &amp; <a href=\"Project#msg-box4-1e\">Down In the DM</a><a href=\"Project#msg-box4-1e\"></a></p>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-18",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/rfjtpp90lu8",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Blame It - Jaime Foxx feat. T-Pain(Track 13)",
+          "text": "<p>[Chorus:]<br>Blame it on the goose<br>Got you feeling loose<br>Blame it on Patron<br>Got you in the zone<br>Blame it on the a a a a a alcohol<br>Blame it on the a a a a a a alcohol<br><br>[Verse 1]<br>Ay she say she usually don't<br>But I know that she front<br>Cause shawty know what she want<br>But she don't wanna seem like she easy<br>I ain't saying what you wont do<br>But you know we probably gonna do<br>What you been feeninn deep inside<br>Don't lie now<br><br>Girl what you drinking ?<br>Gonna let sink in<br>Here for the weekend<br>Thinking<br>We can<br>See what we can be if we press fast forward<br>Just one more round and you're down I know it<br>Fill another cup up<br>Feeling on yo butt what ?<br><br>You don't even care now<br>I was unaware how fine you were before my buzz set in, before my buzz set in....<br><br>[Chorus:]<br>Blame it on the goose<br>Got you feeling loose<br>Blame it on Patron<br>Got you in the zone<br>Blame it on the a a a a a alcohol<br>Blame it on the a a a a a alcohol<br>Blame it on the vodka<br>Blame it on the henny<br>Blame it on the blue top<br>Got you feeling dizzy<br>Blame it on the a a a a a alcohol<br>Blame it on the a a a a a a alcohol<br><br>Oh see<br>She spilled some drank on me<br>And now I'm knowing she's tipsy<br>She put her body on me<br>And she keep staring me right in my eyes<br>No telling what I'm gonna do<br>Baby I would rather show you<br>What you been missing in your life when I get inside.<br><br>Girl what you drinking ?<br>Gonna let sink in<br>Here for the weekend<br>Thinking<br>We can<br>See what we can be if we press fast forward<br>Just one more round and you're down I know it<br>Fill another cup up<br>Feelin on yo butt what ?<br><br>You don't even care now<br>I was unaware how<br><br>Fine<br>You were before my buzz set in, before my buzz set in....<br><br>Blame it on the goose<br>Got you feeling loose<br>Blame it on Patron<br>Got you in the zone<br>Blame it on the a a a a a alcohol<br>Blame it on the a a a a a alcohol<br>Blame it on the vodka<br>Blame it on the henny<br>Blame it on the blue top<br>Got you feeling dizzy<br>Blame it on the a a a a a alcohol<br>Blame it on the a a a a a a alcohol<br><br>(T-PAIN !)<br><br>Girl I know you feel good<br>Dancing like you look<br>Couple more shots you open up like a book<br>I ain't trippin? (cause I'm a read ya)<br>Shawty I ain't trippin? (I just want to please ya)<br>I'm a take a shot of nuvo<br>Shawty then you know<br>It's goin? down we can go and kick it like judo (judo)<br>You know what I mean<br>Shawty got drunk thought it all was a dream<br>So I made her say ahh, ahh ahh<br>Now she got her hand on my leg<br>Got my seats all wet in my ride (all wet in my ride)<br>All over my ride (all over my ride)<br>She look my dead in the eye, eye eye<br>Then my pants got bigger<br>She already knew what the bigger<br>Had her looking her boyfriend like fuck that niggaa<br><br>(Chorus:)<br>Blame it on the Goose, got you feelin? loose<br>Blame it on the Tron, got you in the zone<br>Blame it on the al al al al al alcohol (blame it on the al al al al al alcohol)<br>Blame it on the Vodka<br>Blame it on the Henney<br>Blame it on the Blue Top, gotcha feelin? dizzy<br>Blame it on the al al al al al alcohol, blame it on the alcohol<br><br>Now to tha ballas popin? bottles<br>With their Henny in their cups<br>Screaming money ain't a thang<br>If it ain't throw it up in the skyyy (sky)<br>And hold your dranks up highhhh (high)<br>And to my independent mamas<br>Who can buy their own bottles<br>If you looking like a model<br>When them broke fellas holla<br>Tell them byeee (bye)<br>Hold your drinks up highhhh (high)<br><br>You can blame it on the Goose, got you feelin? loose<br>Blame it on the Tron, got you in the zone<br>Blame it on the al al al al al alcohol (blame it on the al al al al al alcohol)<br>Blame it on the Vodka<br>Blame it on the Henney<br>Blame it on the Blue Top, gotcha feelin? dizzy<br>Blame it on the al al al al al alcohol, blame it on the alcohol<br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-19",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Quote</b>:</p><p>“These desirable ingredients are absent when one partner intentionally cajoles, induces, pressures, or even forces another to engage in sexual activities against his or her will. These actions can take various forms (DeGue &amp; DiLillo, 2005). The type of pressure that is applied can range from (a) mildly coercive verbal persuasion (that may involve false promises, guilt induction, or threats to end the relationship); to (b) plying someone with alcohol or drugs to weaken his or her resistance.” (Miller, 2015, p.304)\n</p>",
+          "text2": "<p><b>Explination</b>:</p><p>This song explores the process of a gentlemen attempting to hitting on a lady and when she doesn’t give a definite answer he gives her more alcohol to loosen up so he can get the ‘yes’ he’s wants to hear. As the quote says the man is using alcohol to weaken her resistance. \n</p><p><br></p>",
+          "text3": ""
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1e",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/YXSpXO4N-tI",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Down In the DM - Yo Gotti (Track 14)",
+          "text": "<p>I see your girl post her BM, so I hit her in her DM<br>All eyes yeah I see 'em, yeah this your man I hate to be him (whoop)<br>It goes down in the DM (it go down) it go down in the DM (it go down, it go... down)<br>It goes down in the DM (it go down) it go down in the DM (it go down, it go... down)<br><br>I tell her, snapchat me that pussy or facetime me that pussy if it's cool<br>(Whoo) boy my DM popping (DM popping), my DM just caught a body<br>I got celebs in this DM, they breaking news if they see them<br>But naw we don't do no talking<br>(We don't do no talking), we see sucker shit too often (fuck nigga)<br><br>I see your girl post her BM, so I hit her in her DM<br>All eyes yeah I see 'em, yeah this your man I hate to be him (whoop)<br>It goes down in the DM (it go down) it go down in the DM (it go down), it go... down)<br>It goes down in the DM (it go down) it go down in the DM (it go down, it go... down)<br><br>I tell her, don't you hate when you get screenshot (petty)<br>Bitch that DM wasn't for everybody (rules) I love the gram I love the gram<br>(I love the gram) I'm addicted to it I know I am (I know I am) and I just followed Angela Simmons<br>Boy I got a crush on Angela Simmons they like \"Damn, Gotti, you bold\" fuck it I'm a let the world know<br>Goals<br><br>I see your girl post her BM, so I hit her in her DM<br>All eyes yeah I see 'em, yeah this your man I hate to be him (whoop)<br>It goes down in the DM (it go down) it go down in the DM (it go down, it go... down)<br>It goes down in the DM (it go down) it go down in the DM (it go down, it go... down)<br><br>I tell her, snapchat me that pussy, snapchat me that pussy if it's cool<br>I see your girl post her BM, so I hit her in her DM<br>All eyes yeah I see 'em, yeah this your man I hate to be him (whoop)<br>It goes down in the DM (it go down) it go down in the DM (it go down, it go... down)<br>It goes down in the DM (it go down) it go down in the DM (it go down, it go... down)<br>I tell her<br><br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-1f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Quote:</b></p><p>“Sometimes it’s just sexy flirty and talking dirty, but an interaction becomes cybersex when it involves sexual chat for the purpose of sexual gratification...” (Miller, 2015, p.293)\n</p>",
+          "text2": "<p><b>Explination</b>:</p><p>With the growth of social media people are becoming more trusting of strangers. They have people all over the world follow them and sometimes message them. This song expresses how simple it is for a sexual connection to start. He noticed her picture, started a conversation with her, and then requested a private photo. In the past when I may have taken a little more effort to convince someone to be unfaithful to their significant other its pretty simple now.\n</p>",
+          "text3": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1g",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Chapter 10",
+          "meta": "<p><a href=\"Project#msg-box4-1i\">Jolene</a><a href=\"Project#msg-box4-1i\"></a> &amp; <a href=\"Project#msg-box4-1j\">Before He Cheats</a><a href=\"Project#msg-box4-1j\"></a></p>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1i",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=b9re90HG2dw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Jolene - Dolly Parton (Track 15)",
+          "text": "<p>Jolene, Jolene, Jolene, Jolene,<br>I'm begging of you: please don't take my man<br>Jolene, Jolene, Jolene, Jolene,<br>Please don't take him just because you can<br><br>Your beauty is beyond compare<br>With flaming locks of auburn hair<br>With ivory skin and eyes of emerald green<br><br>Your smile is like a breath of spring<br>Your voice is soft like summer rain<br>And I cannot compete with you, Jolene<br><br>He talks about you in his sleep<br>There's nothing I can do to keep<br>From crying when he calls your name, Jolene<br><br>And I can easily understand<br>How you could easily take my man<br>But you don't know what he means to me, Jolene<br><br>Jolene, Jolene, Jolene, Jolene,<br>I'm begging of you: please don't take my man<br>Jolene, Jolene, Jolene, Jolene,<br>Please don't take him just because you can<br><br>You could have your choice of men<br>But I could never love again<br>He's the only one for me, Jolene<br><br>I had to have this talk with you<br>My happiness depends on you<br>And whatever you decide to do, Jolene<br><br>Jolene, Jolene, Jolene, Jolene,<br>I'm begging of you: please don't take my man<br>Jolene, Jolene, Jolene, Jolene,<br>Please don't take him even though you can<br><br>Jolene, Jolene<br><br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-1h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Quote</b>:</p><p>“Poaching tactics used by men and women tend to differ. When they are trying to entice someone else’s mate, women advertise their good looks and sexual availability, whereas men publicize their power and their willingness to provide their lovers desirable recourses.” (Miller, 2015, p.322)\r</p>",
+          "text2": "<p><b>Explination:&nbsp;</b></p><p>This song is written from the point of view of the woman that doesn’t want to get poached. She knows that Jolene is attractive and could probably take her man but she is begging her not to. This song also shows an example of suspicious jealousy; her man speaks of Jolene in his sleep which causes her great despair. &nbsp;&nbsp;</p>",
+          "text3": ""
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1j",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=WaSy8yy-mr8",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Before He Cheats - Carrie Underwood (Track 16)",
+          "text": "<p>Right now he's probably slow dancing with a bleached-blond tramp,<br>And she's probably getting frisky...<br>Right now, he's probably buying her some fruity little drink<br>'Cause she can't shoot whiskey...<br>Right now, he's probably up behind her with a pool stick,<br>Showing her how to shoot a combo...<br><br>And he don't know...<br><br>That I dug my key into the side<br>Of his pretty little souped-up four-wheel drive,<br>Carved my name into his leather seats...<br>I took a Louisville slugger to both headlights,<br>Slashed a hole in all four tires...<br>Maybe next time he'll think before he cheats.<br><br>Right now, she's probably up singing some<br>White-trash version of Shania karaoke.<br>Right now, she's probably saying, \"I'm drunk\"<br>And he's a-thinking that he's gonna get lucky,<br>Right now, he's probably dabbing on<br>3 dollars worth of that bathroom Polo*...<br><br>Oh, and he don't know...<br><br>That I dug my key into the side<br>Of his pretty little souped-up four-wheel drive,<br>Carved my name into his leather seats,<br>I took a Louisville slugger to both headlights,<br>Slashed a hole in all four tires...<br>Maybe next time he'll think before he cheats.<br><br>I might've saved a little trouble for the next girl,<br>'Cause the next time that he cheats...<br>Oh, you know it won't be on me!<br><br>No... not on me<br><br>'Cause I dug my key into the side<br>Of his pretty little souped-up four-wheel drive,<br>Carved my name into his leather seats...<br>I took a Louisville slugger to both headlights,<br>Slashed a hole in all four tires...<br>Maybe next time he'll think before he cheats.<br><br>Oh, maybe next time he'll think before he cheats...<br><br>Oh, before he cheats... oh, oh.<br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-1k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Quote</b>:</p><p>“It’s being cast aside for someone else that gets people angry, and that anger is usually directed both at the meddlesome rival and at the partner who is beginning to stray.” (Miller, 2015, p.315)\n</p>",
+          "text2": "<p><b>Explination</b>:</p><p>This song shows how a jilted lover can show anger towards the cheater and the other woman. The other woman in the song seems to have no idea that the man is being unfaithful yet the singer has no problem calling her a tramp or insulting her drink and song choices. She, the other woman, has done nothing to her but she still shows anger towards her. She should be angry with her boyfriend, which she is, and she takes that anger out on his car. \n</p>",
+          "text3": ""
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Linsey's Media Project",
+        "meta_descr": "Website Generator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1m",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Linsey's Media Project",
+          "text": "<p><a href=\"Linseys Media Project#header3-1c\">Chapter 7</a><a href=\"Project#header3-1c\"></a>&nbsp;- <a href=\"Project#header3-1b\">Chapter 8</a><a href=\"Project#header3-1b\"></a>&nbsp;- <a href=\"Project#header3-1d\">Chapter 9</a><a href=\"Project#header3-1d\"></a>&nbsp;- <a href=\"Project#header3-1g\">Chapter 10&nbsp;</a></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Chapter 7",
+          "meta": "<p><a href=\"Brick House#msg-box4-1\">Thank You For Being A Friend</a><a href=\"Brick House#msg-box4-1\"></a> &amp; <a href=\"Brick House#msg-box4-12\">Somebody to Love</a><a href=\"Brick House#msg-box4-12\"></a></p>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1o",
           "_params": {
             "imageSize": 50,
             "paddingTop": "3",
@@ -182,7 +824,7 @@
               "size": 250
             }
           },
-          "title": "Brick House - Commodores (Track 1)<br>",
+          "title": "Thank You For Being a Friend - Andrew Gold (Track 1)<br>",
           "text": "<p>Ow, she's a brick house<br>She's mighty-mighty, just lettin' it all hang out<br>She's a brick house<br>That lady's stacked and that's a fact<br>Ain't holding nothing back<br>Ow, she's a brick house<br>Well put-together, everybody knows<br>This is how the story goes<br>She knows she got everything<br>That a woman needs to get a man, yeah, yeah<br>How can she lose with the stuff she use<br>Thirty-six, twenty-four, thirty-six oh what a winning hand<br>'Cause she's a brick house<br>She's mighty-mighty, just lettin' it all hang out<br>She's a brick house<br>Ow, that lady stacked and that's a fact<br>Ain't holding nothing back<br>Ow, she's a brick house<br>Yeah, she's the one, the only one, built like an amazon<br>The clothes she wears, her sexy ways<br>Make an old man wish for younger days, yeah, yeah<br>She knows she's built and knows how to please<br>Sure enough to knock a strong man to his knees<br>'Cause she's a brick house<br>Yeah, she's mighty mighty, just lettin' it all hang out<br>She's a brick house<br>The lady's stacked and that's a fact<br>Ain't holding nothing back<br>Shake it down, shake it down now<br>Shake it down, shake it down now<br>Shake it down, shake it down now<br>Shake it down, shake it down now<br>Shake it down, shake it down now<br>Shake it down, shake it down now<br>Shake it down, shake it down now<br>Shake it down, shake it down now<br>Brick house<br>Yeah, she's mighty mighty, just lettin' it all hang out<br>She's a brick house<br>Yeah, she's the one, the only one, built like an amazon, yeah<br>Shake it down, shake it down, shake it down now<br>Shake it down, shake it down, shake it down now<br>Shake it down, shake it down, shake it down now<br>Shake it down, shake it down, shake it, shake it<br>Shake it down, shake it down, shake it down now<br>Shake it down, shake it down, shake it down now<br>Shake it down, shake it down, shake it down now<br>Shake it down, shake it down, shake it<br>Ow, a brick house</p><br><p><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
@@ -191,7 +833,7 @@
             "Theme"
           ],
           "_name": "content7",
-          "_anchor": "content7-3",
+          "_anchor": "content7-1p",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -207,7 +849,7 @@
             "Theme"
           ],
           "_name": "msg-box4",
-          "_anchor": "msg-box4-12",
+          "_anchor": "msg-box4-1q",
           "_params": {
             "imageSize": 50,
             "paddingTop": "3",
@@ -256,7 +898,7 @@
             "Theme"
           ],
           "_name": "content7",
-          "_anchor": "content7-13",
+          "_anchor": "content7-1r",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -276,7 +918,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1b",
+          "_anchor": "header3-1s",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -292,7 +934,7 @@
             "Theme"
           ],
           "_name": "msg-box4",
-          "_anchor": "msg-box4-14",
+          "_anchor": "msg-box4-1t",
           "_params": {
             "imageSize": 50,
             "paddingTop": "3",
@@ -341,7 +983,7 @@
             "Theme"
           ],
           "_name": "content7",
-          "_anchor": "content7-15",
+          "_anchor": "content7-1u",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -357,7 +999,7 @@
             "Theme"
           ],
           "_name": "msg-box4",
-          "_anchor": "msg-box4-16",
+          "_anchor": "msg-box4-1v",
           "_params": {
             "imageSize": 50,
             "paddingTop": "3",
@@ -406,7 +1048,7 @@
             "Theme"
           ],
           "_name": "content7",
-          "_anchor": "content7-17",
+          "_anchor": "content7-1w",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -426,7 +1068,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1d",
+          "_anchor": "header3-1x",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -442,7 +1084,7 @@
             "Theme"
           ],
           "_name": "msg-box4",
-          "_anchor": "msg-box4-18",
+          "_anchor": "msg-box4-1y",
           "_params": {
             "imageSize": 50,
             "paddingTop": "3",
@@ -491,7 +1133,7 @@
             "Theme"
           ],
           "_name": "content7",
-          "_anchor": "content7-19",
+          "_anchor": "content7-1z",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -507,7 +1149,7 @@
             "Theme"
           ],
           "_name": "msg-box4",
-          "_anchor": "msg-box4-1e",
+          "_anchor": "msg-box4-20",
           "_params": {
             "imageSize": 50,
             "paddingTop": "3",
@@ -556,7 +1198,7 @@
             "Theme"
           ],
           "_name": "content7",
-          "_anchor": "content7-1f",
+          "_anchor": "content7-21",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -576,7 +1218,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1g",
+          "_anchor": "header3-22",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -592,7 +1234,7 @@
             "Theme"
           ],
           "_name": "msg-box4",
-          "_anchor": "msg-box4-1i",
+          "_anchor": "msg-box4-23",
           "_params": {
             "imageSize": 50,
             "paddingTop": "3",
@@ -641,7 +1283,7 @@
             "Theme"
           ],
           "_name": "content7",
-          "_anchor": "content7-1h",
+          "_anchor": "content7-24",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -657,7 +1299,7 @@
             "Theme"
           ],
           "_name": "msg-box4",
-          "_anchor": "msg-box4-1j",
+          "_anchor": "msg-box4-25",
           "_params": {
             "imageSize": 50,
             "paddingTop": "3",
@@ -706,7 +1348,7 @@
             "Theme"
           ],
           "_name": "content7",
-          "_anchor": "content7-1k",
+          "_anchor": "content7-26",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
